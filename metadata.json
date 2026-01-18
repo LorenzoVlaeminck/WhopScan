@@ -1,0 +1,7 @@
+{
+  "name": "WhopScan AI",
+  "description": "An intelligent market research tool for Whop.com. Uses Gemini's search grounding to extract structured data, pricing details, and market sentiment from any Whop marketplace listing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
